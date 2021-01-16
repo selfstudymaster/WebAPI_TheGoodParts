@@ -1,0 +1,30 @@
+[
+    {
+        "coordinates" : null,
+        "favorited" : false,
+        "truncated" : false,
+        "created_at" : "Wed Aug 29 17:12:58 +0000 2012",
+        "entities" : {
+            "urls" : [
+                {
+                    "expanded_url" : "https://dev.twitter.com/blog/twitter-certified-products",
+                    "url" : "https://t.co/MjJ8xAnT",
+                    "indices" : [
+                        52,
+                        73
+                    ],
+                    "display_url" : "dev.twitter.cpm/blog/twitter-c\u2026"
+                }
+            ],
+            "hashtags" : [
+
+            ],
+            "user_mentions" : [
+
+            ]
+        },
+            :
+            :
+            :
+    }
+]
